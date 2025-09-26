@@ -7,8 +7,8 @@ This README provides step-by-step instructions for setting up a Python environme
 ## 📦 Prerequisites
 
 - **Anaconda** (or Python 3.9+ with `venv`)
-- **Build tools:** `git`, `cmake` (≥ 3.24), `ninja` (recommended), a modern C/C++ compiler
-- **ANARI SDK / implementation** (e.g. **helide**, **OSPRay** w/ ANARI)
+- **Build tools:** `git`, `cmake` (≥ 3.24), a modern C/C++ compiler
+- **ANARI SDK and back-end** (e.g. **helide**, **VisRTX**)
 
 ---
 
