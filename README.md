@@ -54,6 +54,7 @@ cd vtk_build
 
 ## 📦 5. Build & Install the VTK Python Wheel
 ```bash
+cd vtk_build
 python setup.py bdist_wheel
 pip install dist/vtk-*.whl
 ```
