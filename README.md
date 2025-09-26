@@ -29,7 +29,7 @@ python -m pip install --upgrade pip
 
 ## 📥 2. Install Pan3D
 ```bash
-pip uninstall -y vtk
+pip install "pan3d[all]"
 ```
 
 ## 🗑️ 3. Remove Any Prebuilt VTK
